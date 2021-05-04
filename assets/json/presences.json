@@ -1,0 +1,46 @@
+[
+  {
+    "type": "PLAYING",
+    "message": "@DUH help | {{guilds}} TCH Server"
+  },
+  {
+    "type": "PLAYING",
+    "message": "d!help | {{guilds}} TCH Server"
+  },
+  {
+    "type": "PLAYING",
+    "message": "d!invite | {{guilds}} TCH Server"
+  },
+  {
+    "type": "PLAYING",
+    "message": "d!support | {{guilds}} TCH Server"
+  },
+  {
+    "type": "LISTENING",
+    "message": "{{guilds}} TCH Server"
+  },
+  {
+    "type": "WATCHING",
+    "message": "digunakan {{guilds}} guild"
+  },
+  {
+    "type": "WATCHING",
+    "message": "you and him"
+  },
+  {
+    "type": "PLAYING",
+    "message": "undang DUH dengan perintah d!invite"
+  },
+  {
+    "type": "PLAYING",
+    "message": "Dari Ujung Hati"
+  },
+  {
+    "type": "PLAYING",
+    "message": "from zero to hero"
+  },
+  {
+    "type": "PLAYING",
+    "message": "with {{users}} users"
+  }
+]
